@@ -1,0 +1,1 @@
+I will be creating a landing page for The Odin Project using my knowledge of HTML/CSS that I have been acquiring over the past couple of days.
