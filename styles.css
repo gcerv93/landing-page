@@ -24,6 +24,12 @@ ul {
   padding: 0;
 }
 
+a {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+}
+
 .logo {
   font-size: 16px;
   color: #f9faf8;
@@ -133,6 +139,7 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 41px;
 }
 
 .quote-text {
@@ -149,4 +156,45 @@ ul {
   margin-left: auto;
   padding-right: 525px;
   padding-top: 16px;
+}
+
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+}
+
+.signup-box {
+  background-color: #3882f6;
+  color: #f9faf8;
+  box-sizing: border-box;
+  padding-left: 150px;
+  width: 1250px;
+  height: 175px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.signup-action {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.signup-text {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.signup-button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  margin-left: auto;
+  margin-right: 150px;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 10px 40px;
+  border: 2px solid #f9faf8;
+  border-radius: 8px;
 }
